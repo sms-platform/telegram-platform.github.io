@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Interface 'Yoast\WP\SEO\Conditionals\Conditional' not found in /www/wwwroot/githubtelegram/wp-content/plugins/wordpress-seo/src/conditionals/user-can-manage-wpseo-options-conditional.php:10
+<b>Fatal error</b>:  Uncaught Error: Interface 'Yoast\WP\SEO\Conditionals\Conditional' not found in C:\xampp\htdocs\wp-content\plugins\wordpress-seo\src\conditionals\user-can-manage-wpseo-options-conditional.php:10
 Stack trace:
 #0 {main}
-  thrown in <b>/www/wwwroot/githubtelegram/wp-content/plugins/wordpress-seo/src/conditionals/user-can-manage-wpseo-options-conditional.php</b> on line <b>10</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\src\conditionals\user-can-manage-wpseo-options-conditional.php</b> on line <b>10</b><br>

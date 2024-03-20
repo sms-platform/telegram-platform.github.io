@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class 'Yoast\WP\SEO\Presentations\Indexable_Presentation' not found in /www/wwwroot/githubtelegram/wp-content/plugins/wordpress-seo/src/presentations/indexable-home-page-presentation.php:10
+<b>Fatal error</b>:  Uncaught Error: Class 'Yoast\WP\SEO\Presentations\Indexable_Presentation' not found in C:\xampp\htdocs\wp-content\plugins\wordpress-seo\src\presentations\indexable-home-page-presentation.php:10
 Stack trace:
 #0 {main}
-  thrown in <b>/www/wwwroot/githubtelegram/wp-content/plugins/wordpress-seo/src/presentations/indexable-home-page-presentation.php</b> on line <b>10</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\wordpress-seo\src\presentations\indexable-home-page-presentation.php</b> on line <b>10</b><br>
