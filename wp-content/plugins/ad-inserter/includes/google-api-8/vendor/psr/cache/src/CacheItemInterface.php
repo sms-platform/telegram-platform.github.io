@@ -1,1 +1,2 @@
- 
+<br>
+<b>Parse error</b>:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in <b>C:\xampp\htdocs\wp-content\plugins\ad-inserter\includes\google-api-8\vendor\psr\cache\src\CacheItemInterface.php</b> on line <b>104</b><br>
